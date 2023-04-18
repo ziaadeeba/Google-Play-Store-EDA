@@ -8,7 +8,7 @@ The data used in this analysis was obtained from Kaggle. It consists of informat
 ### ***Analysis***
 The analysis is performed in a Jupyter Notebook using Python 3. The notebook contains the following sections:
 
-## ***Data Cleaning and Preparation*** :
+### ***Data Cleaning and Preparation*** :
 In this section, the raw data is cleaned and prepared for analysis. This includes handling missing data, removing duplicates, and converting data types as needed.
 
 ### ***Data Exploration:*** 
