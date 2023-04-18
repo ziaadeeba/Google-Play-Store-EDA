@@ -1,4 +1,4 @@
-**Google Play Store EDA
+# **Google Play Store EDA**
 
 This repository contains the code and data used to perform an Exploratory Data Analysis (EDA) on the Google Play Store. The purpose of this project is to gain insights into the characteristics of apps that are successful on the Google Play Store.
 
