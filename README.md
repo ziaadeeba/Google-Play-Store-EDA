@@ -1,10 +1,10 @@
-Google Play Store EDA
+**Google Play Store EDA
 This repository contains the code and data used to perform an Exploratory Data Analysis (EDA) on the Google Play Store. The purpose of this project is to gain insights into the characteristics of apps that are successful on the Google Play Store.
 
-Data
+**Data
 The data used in this analysis was obtained from Kaggle. It consists of information about approximately 10,000 Android apps that were available on the Google Play Store in 2018.
 
-Analysis
+**Analysis
 The analysis is performed in a Jupyter Notebook using Python 3. The notebook contains the following sections:
 
 Data Cleaning and Preparation: In this section, the raw data is cleaned and prepared for analysis. This includes handling missing data, removing duplicates, and converting data types as needed.
